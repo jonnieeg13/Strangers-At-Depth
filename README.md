@@ -121,7 +121,7 @@ Please clone the repo and refer to these documents for further informations:
 
 1. Unity(Latest Version is prefered)
 2. Andorid Emulator using android studio.
-3. OS should be capapble of running Unity and Android.
+3. OS should be capable of running Unity and Android.
 
 
 ### Installation
