@@ -112,9 +112,9 @@ Stranger At Depth {SAD} is a fun mobile Android 2-D multiplayer battle royale pl
 ## Getting Started
 
 Please clone the repo and refer to these documents for further informations:
-1. [Software Requirement Analysis](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/CSE%203310%20SRA%20FINAL.doc)
-2. [Test Plan](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/CSE%203310%20Test%20Plan%20FINAL.doc)
-3. [User Manual](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/UserManual.md)
+1. [Software Requirement Analysis](https://github.com/jonnieeg13/Strangers-At-Depth/blob/main/CSE%203310%20SRA%20FINAL.doc)
+2. [Test Plan](https://github.com/jonnieeg13/Strangers-At-Depth/blob/main/CSE%203310%20Test%20Plan%20FINAL.doc)
+3. [User Manual](https://github.com/jonnieeg13/Strangers-At-Depth/blob/main/UserManual.md)
 
 
 ### Prerequisites
@@ -139,7 +139,7 @@ Please clone the repo and refer to these documents for further informations:
 <!-- USAGE EXAMPLES -->
 ## Usage Examples
  
-Please refer to the usermanual readme [Documentation](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/UserManual.md)_
+Please refer to the usermanual readme [Documentation](https://github.com/jonnieeg13/Strangers-At-Depth/blob/main/UserManual.md)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -148,7 +148,7 @@ Please refer to the usermanual readme [Documentation](https://github.com/BirajSi
 <!-- ROADMAP -->
 ## Roadmap
 
-Please refer to the SRA [Documentation](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/CSE%203310%20SRA%20FINAL.doc)_
+Please refer to the SRA [Documentation](https://github.com/jonnieeg13/Strangers-At-Depth/blob/main/CSE%203310%20SRA%20FINAL.doc)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
